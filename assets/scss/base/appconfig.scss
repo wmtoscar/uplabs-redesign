@@ -1,0 +1,16 @@
+a {
+  &:hover, &:focus, &:active {
+    text-decoration: none !important;
+  }
+  &.menu-icons {
+    color: #6f6f6f !important;
+    &:hover, &:focus, &:active {
+      color: #6f6f6f !important;
+    }
+  }
+}
+.v-text-field__details {
+  display: none !important;
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,57 @@
+.uplabs-header {
+  background-color: #f5f5f5;
+  height: 70px;
+  padding:15px 20px;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  .hamburger {
+     background-color: transparent !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
+    &:hover {
+      background: transparent !important;
+      &:before {
+        background: transparent !important;
+      }
+    }
+  }
+  .logo-wrapper {
+    width: 155px;
+    .logo {
+      width: auto;
+      height: 20px;
+    }
+  }
+  .search-wrapper {
+    align-items: center;
+    .searchbox {
+      max-width: 800px;
+      width: 700px;
+    }
+  }
+  .profile-notification {
+    display: flex;
+    align-items: center;
+    a {
+      margin:0 10px;
+      &:last-child {}
+      margin: 0 0 0 10px;
+    }
+    .avatar-wrapper {
+      display: block;
+      height: 30px;
+      width: 30px;
+      overflow: hidden;
+      border-radius:50%;
+      img {
+      width: 100%;
+      height: auto;
+    }
+    }
+  }
+}
