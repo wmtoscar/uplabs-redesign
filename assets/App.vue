@@ -45,6 +45,7 @@
                     hide-overlay
                     stateless
                     class="d-inline-block uplabs-nav"
+                    @click="toggleDrawer()"
             >
 
                 <v-list class="pt-0" dense>
@@ -97,7 +98,7 @@
                     </v-list-tile>
                 </v-list>
             </v-navigation-drawer>
-            <div class="main-container">
+            <div class="main-container" v-model="opened" v-bind:class="{isOpened: isOpenedClass}">
                 <router-view></router-view>
             </div>
         </div>
@@ -111,6 +112,7 @@
         data () {
             return {
                 drawer: true,
+                isOpenedClass:false,
                 items: [
                     { title: 'Home', icon: 'home' },
                     { title: 'Collection', icon: 'group_work' },
@@ -131,6 +133,11 @@
                 ],
                 mini: true,
                 right: null
+            }
+        },
+        methods: {
+            toggleDrawer: function () {
+                this.isOpenedClass =true
             }
         }
     }

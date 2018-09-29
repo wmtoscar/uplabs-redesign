@@ -248,9 +248,14 @@
 </template>
 <script>
     export default {
+        data(){
+            return {
+                x: null,
+            }
+        },
         methods: {
             isUpvoted (item) {
-                console.log(this.parent())
+                this.x= item;
             }
         }
     }
