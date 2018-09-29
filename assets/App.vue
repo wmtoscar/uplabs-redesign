@@ -6,7 +6,7 @@
                     <v-btn
                             icon
                             @click.stop="mini = !mini"
-                            @click="toggleDrawer()"
+                            class="menu_btn"
                     >
                         <i class="material-icons">menu</i>
                     </v-btn>
@@ -98,7 +98,7 @@
                     </v-list-tile>
                 </v-list>
             </v-navigation-drawer>
-            <div class="main-container" v-bind:class="{isOpened: isOpenedClass}">
+            <div class="main-container">
                 <router-view></router-view>
             </div>
         </div>
@@ -112,7 +112,6 @@
         data () {
             return {
                 drawer: true,
-                isOpenedClass:false,
                 items: [
                     { title: 'Home', icon: 'home' },
                     { title: 'Collection', icon: 'group_work' },
@@ -134,13 +133,7 @@
                 mini: true,
                 right: null
             }
-        },
-        methods: {
-            toggleDrawer: function () {
-                return {
-                    isOpened: !this.isOpenedClass
-                };
-            }
         }
     }
 </script>
+

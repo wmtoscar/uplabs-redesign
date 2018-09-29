@@ -20,6 +20,9 @@ a {
 }
 .main-container {
   margin-top:75px;
+  &.isopened {
+    margin-left: 300px;
+  }
 }
 .text-small {
   font-size: 80% !important;
