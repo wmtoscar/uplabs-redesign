@@ -20,7 +20,7 @@
             <v-flex xs12 sm4 class="card-wrapper">
                 <v-card>
                     <v-img
-                            src="https://assets.materialup.com/uploads/428b8741-73c5-4de2-b351-b9231c8612d1/teaser.png"
+                            src="https://assets.materialup.com/uploads/823e6c88-e701-4f15-8c70-8fc1315a3289/preview.gif"
                             aspect-ratio="1.5"
                     ></v-img>
 
@@ -28,16 +28,18 @@
                         <div class="w-100">
                             <div class="d-inline-block curator_img_wrapper">
                                 <div class="curator_img_48">
-                                    <img src="https://s3.amazonaws.com/assets.materialup.com/users/pictures/000/001/160/preview/wQ9kNRnB_400x400.png?1507618987" class="img-fluid"/>
+                                    <img src="https://s3.amazonaws.com/assets.materialup.com/users/pictures/000/007/513/preview/19224954_251960585280949_1401053376035655372_n.jpg?1507619728" class="img-fluid"/>
                                 </div>
                             </div>
                             <div class="d-inline-block article_headline">
-                                <h5>Minimal Landscapes</h5>
+                                <h5>HASH Platform Photographer Preview Page Animation</h5>
                                 <h6 class="text-small text-regular">by
-                                    <a href="javascript:void(0)"><span class="text-capitalize">Ramotion</span></a></h6>
+                                    <a
+                                            href="javascript:void(0)"><span class="text-capitalize">Sochnik
+                                        Studios</span></a></h6>
                             </div>
                             <div class="d-inline-block like_btn">
-                                <div class="upvote">
+                                <div class="upvote motion">
                                     <a href="javascript:void(0)" class="upvote-link">
                                         <v-icon class="text-xs-center up_icon">arrow_drop_up</v-icon>
                                         <div class="counter">690</div>
@@ -85,7 +87,7 @@
             <v-flex xs12 sm4 class="card-wrapper">
                 <v-card>
                     <v-img
-                            src="https://assets.materialup.com/uploads/428b8741-73c5-4de2-b351-b9231c8612d1/teaser.png"
+                            src="https://assets.materialup.com/uploads/9dfdc491-2587-4af4-b2a5-0853a7859793/preview.gif"
                             aspect-ratio="1.5"
                     ></v-img>
 
@@ -97,7 +99,7 @@
                                 </div>
                             </div>
                             <div class="d-inline-block article_headline">
-                                <h5>Minimal Landscapes</h5>
+                                <h5>Sign In Screen for Web Application</h5>
                                 <h6 class="text-small text-regular">by
                                     <a href="javascript:void(0)"><span class="text-capitalize">Zanjo</span></a></h6>
                             </div>
@@ -117,7 +119,7 @@
             <v-flex xs12 sm4 class="card-wrapper">
                 <v-card>
                     <v-img
-                            src="https://assets.materialup.com/uploads/428b8741-73c5-4de2-b351-b9231c8612d1/teaser.png"
+                            src="https://assets.materialup.com/uploads/b8134dda-a0a5-40f2-8a15-a29642da4c15/animated_teaser.gif"
                             aspect-ratio="1.5"
                     ></v-img>
 
@@ -129,7 +131,7 @@
                                 </div>
                             </div>
                             <div class="d-inline-block article_headline">
-                                <h5>Minimal Landscapes</h5>
+                                <h5>Share round</h5>
                                 <h6 class="text-small text-regular">by
                                     <a href="javascript:void(0)"><span class="text-capitalize">Johnyvino</span></a></h6>
                             </div>
@@ -149,7 +151,7 @@
             <v-flex xs12 sm4 class="card-wrapper">
                 <v-card>
                     <v-img
-                            src="https://assets.materialup.com/uploads/428b8741-73c5-4de2-b351-b9231c8612d1/teaser.png"
+                            src="https://assets.materialup.com/uploads/77170bf7-5784-4faf-8355-88a54305076c/preview.jpg"
                             aspect-ratio="1.5"
                     ></v-img>
 
@@ -157,16 +159,16 @@
                         <div class="w-100">
                             <div class="d-inline-block curator_img_wrapper">
                                 <div class="curator_img_48">
-                                    <img src="https://bhavikji.com/images/home/bhavik1_200x200.jpg" class="img-fluid"/>
+                                    <img src=https://s3.amazonaws.com/assets.materialup.com/users/pictures/000/227/904/preview/Untitled-1.jpg?1523263773" class="img-fluid"/>
                                 </div>
                             </div>
                             <div class="d-inline-block article_headline">
-                                <h5>Minimal Landscapes</h5>
+                                <h5>Helvetica Banner</h5>
                                 <h6 class="text-small text-regular">by
-                                    <span class="text-capitalize">Mark van Bommel</span></h6>
+                                    <a href="javascript:void(0)"><span class="text-capitalize">tonmoy</span></a></h6>
                             </div>
                             <div class="d-inline-block like_btn">
-                                <div class="upvote">
+                                <div class="upvote branding">
                                     <a href="javascript:void(0)" class="upvote-link">
                                         <v-icon class="text-xs-center up_icon">arrow_drop_up</v-icon>
                                         <div class="counter">90</div>
@@ -181,7 +183,7 @@
             <v-flex xs12 sm4 class="card-wrapper">
                 <v-card>
                     <v-img
-                            src="https://assets.materialup.com/uploads/428b8741-73c5-4de2-b351-b9231c8612d1/teaser.png"
+                            src="https://assets.materialup.com/uploads/e5123820-d54b-460e-9c91-b035f177c50c/preview.png"
                             aspect-ratio="1.5"
                     ></v-img>
 
@@ -189,16 +191,16 @@
                         <div class="w-100">
                             <div class="d-inline-block curator_img_wrapper">
                                 <div class="curator_img_48">
-                                    <img src="https://bhavikji.com/images/home/bhavik1_200x200.jpg" class="img-fluid"/>
+                                    <img src="https://s3.amazonaws.com/assets.materialup.com/users/pictures/000/401/641/thumb/open-uri20180910-4-16ia4zv?1536589886" class="img-fluid"/>
                                 </div>
                             </div>
                             <div class="d-inline-block article_headline">
-                                <h5>Minimal Landscapes</h5>
+                                <h5>Floating Islands Branding</h5>
                                 <h6 class="text-small text-regular">by
-                                    <span class="text-capitalize">Mark van Bommel</span></h6>
+                                    <a href="javascript:void(0)"><span class="text-capitalize">tonmoy</span></a></h6>
                             </div>
                             <div class="d-inline-block like_btn">
-                                <div class="upvote">
+                                <div class="upvote 3d">
                                     <a href="javascript:void(0)" class="upvote-link">
                                         <v-icon class="text-xs-center up_icon">arrow_drop_up</v-icon>
                                         <div class="counter">90</div>
@@ -213,7 +215,7 @@
             <v-flex xs12 sm4 class="card-wrapper">
                 <v-card>
                     <v-img
-                            src="https://assets.materialup.com/uploads/428b8741-73c5-4de2-b351-b9231c8612d1/teaser.png"
+                            src="https://assets.materialup.com/uploads/f3fd6368-5deb-4444-8c35-d538cbc32c73/teaser.png"
                             aspect-ratio="1.5"
                     ></v-img>
 
@@ -221,78 +223,16 @@
                         <div class="w-100">
                             <div class="d-inline-block curator_img_wrapper">
                                 <div class="curator_img_48">
-                                    <img src="https://bhavikji.com/images/home/bhavik1_200x200.jpg" class="img-fluid"/>
+                                    <img src="https://s3.amazonaws.com/assets.materialup.com/users/pictures/000/025/776/thumb/IMG_0234.jpg?1536734812" class="img-fluid"/>
                                 </div>
                             </div>
                             <div class="d-inline-block article_headline">
-                                <h5>Minimal Landscapes</h5>
+                                <h5>Subscribers</h5>
                                 <h6 class="text-small text-regular">by
-                                    <span class="text-capitalize">Mark van Bommel</span></h6>
+                                    <a href="javascript:void(0)"><span class="text-capitalize">Juilen</span></a></h6>
                             </div>
                             <div class="d-inline-block like_btn">
-                                <div class="upvote">
-                                    <a href="javascript:void(0)" class="upvote-link">
-                                        <v-icon class="text-xs-center up_icon">arrow_drop_up</v-icon>
-                                        <div class="counter">90</div>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </v-card-title>
-                </v-card>
-            </v-flex>
-            <v-flex xs12 sm4 class="card-wrapper">
-                <v-card>
-                    <v-img
-                            src="https://assets.materialup.com/uploads/428b8741-73c5-4de2-b351-b9231c8612d1/teaser.png"
-                            aspect-ratio="1.5"
-                    ></v-img>
-
-                    <v-card-title primary-title>
-                        <div class="w-100">
-                            <div class="d-inline-block curator_img_wrapper">
-                                <div class="curator_img_48">
-                                    <img src="https://bhavikji.com/images/home/bhavik1_200x200.jpg" class="img-fluid"/>
-                                </div>
-                            </div>
-                            <div class="d-inline-block article_headline">
-                                <h5>Minimal Landscapes</h5>
-                                <h6 class="text-small text-regular">by
-                                    <span class="text-capitalize">Mark van Bommel</span></h6>
-                            </div>
-                            <div class="d-inline-block like_btn">
-                                <div class="upvote">
-                                    <a href="javascript:void(0)" class="upvote-link">
-                                        <v-icon class="text-xs-center up_icon">arrow_drop_up</v-icon>
-                                        <div class="counter">90</div>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </v-card-title>
-                </v-card>
-            </v-flex>
-            <v-flex xs12 sm4 class="card-wrapper">
-                <v-card>
-                    <v-img
-                            src="https://assets.materialup.com/uploads/428b8741-73c5-4de2-b351-b9231c8612d1/teaser.png"
-                            aspect-ratio="1.5"
-                    ></v-img>
-
-                    <v-card-title primary-title>
-                        <div class="w-100">
-                            <div class="d-inline-block curator_img_wrapper">
-                                <div class="curator_img_48">
-                                    <img src="https://bhavikji.com/images/home/bhavik1_200x200.jpg" class="img-fluid"/>
-                                </div>
-                            </div>
-                            <div class="d-inline-block article_headline">
-                                <h5>Minimal Landscapes</h5>
-                                <h6 class="text-small text-regular">by
-                                    <span class="text-capitalize">Mark van Bommel</span></h6>
-                            </div>
-                            <div class="d-inline-block like_btn">
-                                <div class="upvote">
+                                <div class="upvote illustration">
                                     <a href="javascript:void(0)" class="upvote-link">
                                         <v-icon class="text-xs-center up_icon">arrow_drop_up</v-icon>
                                         <div class="counter">90</div>
