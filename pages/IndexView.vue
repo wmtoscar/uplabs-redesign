@@ -99,7 +99,7 @@
                                     </div>
                                 </div>
                                 <div class="d-inline-block article_headline">
-                                    <h5>Sign In Screen for Web Application</h5>
+                                    <h5>Sign In Screen</h5>
                                     <h6 class="text-small text-regular">by
                                         <a href="javascript:void(0)"><span class="text-capitalize">Zanjo</span></a></h6>
                                 </div>
@@ -248,5 +248,5 @@
     </div>
 </template>
 <script>
-    require('jquery')
+    require('jquery');
 </script>

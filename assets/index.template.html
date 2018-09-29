@@ -14,12 +14,20 @@
 <body>
 <noscript id="deferred-styles"></noscript>
 <!--vue-ssr-outlet-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
     $('.upvote').on('click', function () {
+        let counter = $(this).find('.counter').text();
+        if($(this).hasClass('upvoted')){
+            counter--;
+            $(this).find('.counter').text(counter)
+        } else {
+            counter++;
+            $(this).find('.counter').text(counter)
+        }
         $(this).toggleClass('upvoted');
     });
-    $('.menu_btn').on('click', function () {
-        alert('here');
+    $('.hamburger_btn').on('click', function () {
         $('.main-content').toggleClass('isopened')
     })
 </script>

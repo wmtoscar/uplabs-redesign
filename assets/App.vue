@@ -3,13 +3,9 @@
         <header id="webViewHeader" class="clearfix  hidden-sm-and-down header-basic">
             <div class="uplabs-header">
                 <div>
-                    <v-btn
-                            icon
-                            @click.stop="mini = !mini"
-                            class="menu_btn"
-                    >
+                    <button class="hamburger_btn" @click.stop="mini = !mini">
                         <i class="material-icons">menu</i>
-                    </v-btn>
+                    </button>
                 </div>
                 <div class="logo-wrapper">
                     <a href="javascript:void(0)">
