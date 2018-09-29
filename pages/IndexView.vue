@@ -254,8 +254,12 @@
             }
         },
         methods: {
-            isUpvoted (item) {
-                this.x= item;
+
+            isUpvoted: function () {
+                console.log(!this.isOpenedClass);
+                return {
+                    x : item
+                }
             }
         }
     }
