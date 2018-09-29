@@ -159,7 +159,7 @@
                         <div class="w-100">
                             <div class="d-inline-block curator_img_wrapper">
                                 <div class="curator_img_48">
-                                    <img src=https://s3.amazonaws.com/assets.materialup.com/users/pictures/000/227/904/preview/Untitled-1.jpg?1523263773" class="img-fluid"/>
+                                    <img src="https://s3.amazonaws.com/assets.materialup.com/users/pictures/000/227/904/preview/Untitled-1.jpg?1523263773" class="img-fluid"/>
                                 </div>
                             </div>
                             <div class="d-inline-block article_headline">
