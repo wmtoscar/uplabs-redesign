@@ -137,10 +137,9 @@
         },
         methods: {
             toggleDrawer: function () {
-                console.log(!this.isOpenedClass);
                 return {
                     isOpened: !this.isOpenedClass
-                }
+                };
             }
         }
     }
