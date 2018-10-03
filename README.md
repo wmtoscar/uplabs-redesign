@@ -1,1 +1,1 @@
-![uplabs redesign](/static/Uplabs.png)
+![uplabs redesign](https://raw.githubusercontent.com/wmtoscar/uplabs-redesign/bhavikji/static/Uplabs.png)
